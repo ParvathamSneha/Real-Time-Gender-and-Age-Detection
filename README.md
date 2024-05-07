@@ -15,7 +15,7 @@ Model Evaluation:
 Comparison with Existing Methods:
 -Compare the performance of the proposed model with state-of-the-art methods for age and gender detection. -Highlight the advantages of the proposed approach in terms of accuracy, computational efficiency, and robustness.
 # Steps
- 1.Install the zip file
- 2.Extract the zip file
- 3.Run detect.py
- 4.If anything saying to import import those
+1. Install the zip file
+2. Extract the zip file
+3. Run detect.py
+4. If anything saying to import import those
